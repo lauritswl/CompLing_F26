@@ -1,4 +1,4 @@
-# Computational Linguistics
+# Computational Linguistics - Spring 26
 I will upload new files to this repository as the class progresses.
 
 
