@@ -1,4 +1,4 @@
-# Computational Linguistics Class 1 – Setup Guide
+# Computational Linguistics – Setup Guide
 
 Follow this guide to set up your working environment on **UCloud** and start working on the project tasks.
 
